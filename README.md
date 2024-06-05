@@ -1,2 +1,3 @@
 # c-project
-c game
+c game 
+snakewatergun is the project 
